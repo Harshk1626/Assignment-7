@@ -1,3 +1,9 @@
+#Harsh Kumar
+#SID = 21107104
+#Mechanical Engineering
+
+
+
 #Q1
 
 # Function for finding GST rate
